@@ -1,0 +1,818 @@
+2021-10-23 10:38:04,937  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:38:04,940  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:38:04,944  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:38:04,944  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:38:04,989  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:38:10,241 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-23 10:38:10,241 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-23 10:38:10,242 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-23 10:38:10,243 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-23 10:38:10,244 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-23 10:38:10,413 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-23 10:38:10,413 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-23 10:38:10,413 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-23 10:38:10,414 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-23 10:38:10,414 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-23 10:43:05,155  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:43:05,158  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:43:05,159  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:43:05,159  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:43:05,199  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:43:15,406  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:43:15,436  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:43:15,437  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:43:15,437  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:43:15,438  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:43:15,438  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:43:15,609  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:43:19,598  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:43:56,590  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:43:56,592  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:43:56,592  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:43:56,592  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:43:56,631  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:43:58,558  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:43:58,585  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:43:58,603  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:43:58,604  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:43:58,622  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:43:58,623  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:43:58,772  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:44:03,607  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:44:34,615  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:44:34,619  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:44:34,620  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:44:34,620  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:44:34,682  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:44:36,669  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:44:36,708  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:44:36,727  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:44:36,745  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:44:36,746  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:44:36,765  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:44:36,923  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:44:40,780  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:45:10,314  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:45:10,316  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:45:10,317  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:45:10,317  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:45:10,317  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:45:10,318  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:45:10,318  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:45:10,318  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:45:10,380  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:45:12,330  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:45:12,356  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:45:12,366  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:45:12,366  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:45:12,367  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:45:12,367  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:45:12,558  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:45:16,591  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:45:38,900  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:45:38,902  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:45:38,902  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:45:38,902  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:45:38,903  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:45:38,903  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:45:38,903  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:45:38,903  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:45:38,961  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:45:40,880  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:45:40,897  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:45:40,907  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:45:40,926  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:45:40,926  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:45:40,926  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:45:47,084  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:45:51,694  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:47:45,441  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:47:45,444  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:47:45,444  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:47:45,444  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:47:45,445  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:47:45,446  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:47:45,446  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:47:45,446  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:47:45,506  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:47:47,524  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:47:47,540  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:47:47,563  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:47:47,567  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:47:47,587  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:47:47,587  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:47:47,771  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:47:51,706  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:49:08,175  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:49:08,177  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:49:08,178  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:49:08,178  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:49:08,179  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:49:08,179  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:49:08,179  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:49:08,180  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:49:08,243  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:49:10,325  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:49:10,349  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:49:10,360  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:49:10,378  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:49:10,379  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:49:10,379  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:49:10,541  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:49:14,433  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:52:57,403  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:52:57,406  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:52:57,407  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:52:57,407  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:52:57,407  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:52:57,408  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:52:57,408  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:52:57,408  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:52:57,464  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:53:00,090  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:53:00,119  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:53:00,125  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:53:00,127  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:53:00,145  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:53:00,146  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:53:00,444  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:53:05,393  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:53:55,451  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:53:55,454  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:53:55,455  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:53:55,455  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:53:55,455  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:53:55,456  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:53:55,456  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:53:55,456  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:53:55,545  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:53:57,577  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:53:57,602  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:53:57,610  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:53:57,610  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:53:57,629  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:53:57,630  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:53:57,785  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:54:02,884  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:57:49,905  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:57:49,908  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:57:49,909  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:57:49,909  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:57:49,910  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:57:49,911  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:57:49,911  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:57:49,912  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:57:49,982  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:57:52,590  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:57:52,599  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:57:52,757  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:57:58,066  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 10:58:24,839  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:58:24,842  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:58:24,842  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:58:24,842  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:58:24,843  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 10:58:24,843  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 10:58:24,844  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 10:58:24,844  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 10:58:24,903  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 10:58:26,967  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 10:58:26,984  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 10:58:27,125  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 10:58:32,239  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:01:48,201  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:01:48,204  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:01:48,204  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:01:48,204  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:01:48,205  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:01:48,205  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:01:48,205  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:01:48,205  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:01:48,263  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:01:50,241  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:01:50,242  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:01:50,453  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:01:54,325  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:02:20,374  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:02:20,376  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:02:20,376  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:02:20,377  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:02:20,377  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:02:20,377  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:02:20,378  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:02:20,378  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:02:20,438  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:02:22,373  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:02:22,393  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:02:22,594  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:02:27,887  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:03:01,595  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:03:01,597  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:03:01,598  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:03:01,598  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:03:01,599  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:03:01,599  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:03:01,599  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:03:01,599  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:03:01,662  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:03:03,647  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:03:03,670  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:03:04,210  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:03:08,113  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:07:49,464  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:07:49,467  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:07:49,468  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:07:49,468  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:07:49,509  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:07:52,288  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:07:52,289  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:07:52,464  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:07:56,436  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:07:56,437  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:07:56,438  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:07:56,438  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:07:56,439  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:08:17,006  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:08:17,008  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:08:17,009  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:08:17,009  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:08:17,049  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:08:18,954  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:08:18,971  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:08:19,147  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:08:24,696  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:08:24,698  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:08:24,698  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:08:24,699  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:08:24,699  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:09:08,691  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:09:08,694  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:09:08,694  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:09:08,694  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:09:08,732  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:09:10,960  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:09:10,968  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:09:11,098  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:09:15,742  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:09:15,744  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:09:15,744  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:09:15,744  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:09:15,744  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:09:19,549  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:09:20,928  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:09:20,940  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:09:21,116  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:09:26,470  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:09:26,471  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:09:26,471  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:09:26,472  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:09:26,473  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:09:31,728 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-23 11:09:31,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-23 11:09:31,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-23 11:09:31,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-23 11:09:31,731 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-23 11:09:31,962 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-23 11:09:31,962 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-23 11:09:31,962 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-23 11:09:31,963 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-23 11:09:31,963 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-23 11:19:30,017  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:19:30,020  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:19:30,021  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:19:30,022  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:19:30,071  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:19:32,755  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:19:32,761  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:19:32,938  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:19:36,963  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:19:36,964  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:19:36,965  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:19:36,966  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:19:36,966  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:22:16,011  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:22:16,013  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:22:16,015  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:22:16,015  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:22:16,057  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:22:18,653  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:22:18,660  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:22:18,853  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:22:24,000  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:22:24,001  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:22:24,002  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:22:24,002  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:22:24,003  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:34:31,235  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:34:31,237  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:34:31,238  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:34:31,238  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:34:31,280  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:34:33,906  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:34:33,907  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:34:34,083  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:34:38,943  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:34:38,944  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:34:38,945  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:34:38,946  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:34:38,946  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:35:17,531  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:35:17,535  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:35:17,536  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:35:17,536  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:35:17,579  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:35:19,657  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:35:19,665  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:35:19,847  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:35:23,353  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:35:23,359  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:35:23,359  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:35:23,360  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:35:23,360  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:38:42,473  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:38:42,475  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:38:42,476  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:38:42,476  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:38:42,517  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:38:45,297  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:38:45,300  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:38:45,470  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:38:51,933  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:38:51,935  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:38:51,935  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:38:51,936  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:38:51,936  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:39:04,644  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:39:04,646  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:39:04,647  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:39:04,647  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:39:04,687  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:39:06,552  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:39:06,570  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:39:06,780  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:39:14,471  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:39:14,475  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:39:14,476  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:39:14,476  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:39:14,476  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:39:14,669  INFO [main] SignupPage:63 - [[ChromeDriver: chrome on MAC (884a6b0716343896853146dc2dccf394)] -> xpath: //div[@ng-bind-html='language']]
+2021-10-23 11:39:14,670  INFO [main] SignupPage:64 - [[ChromeDriver: chrome on MAC (884a6b0716343896853146dc2dccf394)] -> xpath: //div[@ng-bind-html='language']]
+2021-10-23 11:40:25,830  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:40:25,833  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:40:25,833  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:40:25,833  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:40:25,875  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:40:28,180  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:40:28,193  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:40:28,360  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:40:33,318  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:40:33,319  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:40:33,319  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:40:33,319  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:40:33,320  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:40:34,240  INFO [main] SignupPage:63 - [[ChromeDriver: chrome on MAC (5339bd55c73436a8118346dd73e6dcc0)] -> xpath: //div[@ng-bind-html='language']]
+2021-10-23 11:40:34,240  INFO [main] SignupPage:64 - [[ChromeDriver: chrome on MAC (5339bd55c73436a8118346dd73e6dcc0)] -> xpath: //div[@ng-bind-html='language']]
+2021-10-23 11:41:04,009  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:41:04,011  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:41:04,011  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:41:04,012  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:41:04,053  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:41:05,885  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:41:05,911  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:41:06,095  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:41:11,215  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:41:11,218  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:41:11,219  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:41:11,219  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:41:11,220  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:41:11,861  INFO [main] SignupPage:63 - English
+2021-10-23 11:41:11,872  INFO [main] SignupPage:64 - Dutch
+2021-10-23 11:52:11,694  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:52:11,697  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:52:11,697  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:52:11,698  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:52:11,739  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:52:14,460  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:52:14,470  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:52:14,634  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:52:22,096  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:52:22,098  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:52:22,098  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:52:22,099  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:52:22,099  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:52:42,491  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:52:42,493  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:52:42,493  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:52:42,494  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:52:42,532  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:52:44,598  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:52:44,605  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:52:44,765  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:52:48,798  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:52:48,800  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:52:48,801  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:52:48,802  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:52:48,802  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:56:47,260  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:56:47,263  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:56:47,264  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:56:47,264  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:56:47,303  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:56:49,997  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:56:50,000  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:56:50,173  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:56:54,210  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:56:54,212  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:56:54,212  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:56:54,213  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:56:54,213  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:56:54,955  INFO [main] SignupTest:44 - Language is missing
+2021-10-23 11:57:24,296  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:57:24,298  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:57:24,298  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:57:24,298  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:57:24,337  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:57:26,283  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:57:26,289  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:57:26,424  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:57:30,327  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:57:30,329  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:57:30,329  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:57:30,329  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:57:30,329  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:57:31,035  INFO [main] SignupTest:42 - All language are available
+2021-10-23 11:58:05,614  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:58:05,616  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:58:05,616  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:58:05,616  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:58:05,654  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:58:08,085  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:58:08,086  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:58:08,248  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:58:13,515  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:58:13,517  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:58:13,518  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:58:13,518  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:58:13,519  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:58:13,670  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:58:15,008  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:58:15,030  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:58:15,231  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:58:20,907  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:58:20,907  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:58:20,907  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:58:20,907  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:58:20,908  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:58:21,840  INFO [main] SignupTest:42 - All language are available
+2021-10-23 11:58:21,953  INFO [main] BaseClass:37 - *********Driver Initialization Start*********
+2021-10-23 11:58:23,291  INFO [main] BaseClass:43 - *********Driver Initialization End*********
+2021-10-23 11:58:23,306  INFO [main] BaseClass:56 - *********Browser Basic Setup Start*********
+2021-10-23 11:58:23,493  INFO [main] BaseClass:61 - *********Browser Basic Setup End*********
+2021-10-23 11:58:27,533  INFO [main] BaseClass:63 - Navigating to base url
+2021-10-23 11:58:27,533  INFO [main] BaseClass:26 - *********BaseClass Constructor Initialization Start*********
+2021-10-23 11:58:27,534  INFO [main] BaseClass:27 - *********Properties file Initialization Start*********
+2021-10-23 11:58:27,535  INFO [main] BaseClass:32 - *********Properties file Initialization End*********
+2021-10-23 11:58:27,535  INFO [main] BaseClass:33 - *********BaseClass Constructor Initialization End*********
+2021-10-23 11:58:36,264 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-23 11:58:36,265 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-23 11:58:36,266 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-23 11:58:36,267 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-23 11:58:36,267 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-23 11:58:36,474 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-23 11:58:36,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-23 11:58:36,475 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-23 11:58:36,475 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-23 11:58:36,475 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:07:32,981  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:07:32,984  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:08:21,897  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:08:21,899  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:10:42,156  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:10:42,159  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:11:29,380  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:11:29,382  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:11:29,383  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:11:29,384  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:11:29,427  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:11:34,611 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:11:34,612 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:11:34,613 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:11:34,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:11:34,614 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:11:34,785 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:11:34,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:11:34,785 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:11:34,786 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:11:34,786 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:13:53,541  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:13:53,543  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:13:53,544  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:13:53,545  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:13:53,581  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:13:58,724 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:13:58,725 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:13:58,726 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:13:58,727 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:13:58,727 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:13:58,907 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:13:58,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:13:58,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:13:58,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:13:58,908 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:14:25,092  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:14:25,095  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:14:25,096  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:14:25,096  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:14:25,151  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:16:01,076  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:16:01,079  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:16:01,080  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:16:01,081  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:16:01,117  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:16:04,544  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:16:04,567  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:16:04,732  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:16:09,522  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:16:09,524  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:16:09,524  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:16:09,524  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:16:09,525  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:16:09,736  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:16:10,984  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:16:10,994  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:16:11,200  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:16:14,393  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:16:14,393  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:16:14,393  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:16:14,393  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:16:14,394  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:16:15,358  INFO [main] SignupTest:43 - All language are available
+2021-10-24 10:16:15,447  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:16:16,706  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:16:16,722  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:16:16,918  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:16:20,227  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:16:20,228  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:16:20,228  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:16:20,229  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:16:20,229  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:16:29,119 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:16:29,120 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:16:29,121 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:16:29,122 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:16:29,122 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:16:29,327 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:16:29,327 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:16:29,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:16:29,328 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:16:29,328 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:34:00,589  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:34:00,591  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:34:00,592  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:34:00,592  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:34:00,633  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:34:03,110  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:34:03,127  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:34:03,274  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:34:06,998  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:34:07,001  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:34:07,002  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:34:07,003  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:34:07,004  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:34:07,209  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:34:08,492  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:34:08,503  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:34:08,669  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:34:12,254  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:34:12,254  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:34:12,255  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:34:12,255  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:34:12,256  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:34:13,017  INFO [main] SignupTest:48 - All language are available
+2021-10-24 10:34:13,119  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:34:14,426  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:34:14,440  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:34:14,647  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:34:17,841  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:34:17,842  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:34:17,842  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:34:17,842  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:34:17,843  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:34:18,751  INFO [main] SignupTest:39 - Signup not successfull: possible reason 
+2021-10-24 10:34:26,995 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:34:26,996 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:34:27,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:34:27,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:34:27,002 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:34:27,234 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 10:34:27,235 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 10:34:27,235 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 10:34:27,235 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 10:34:27,235 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 10:35:15,317  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:35:15,319  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:35:15,319  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:35:15,320  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:35:15,361  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:35:17,565  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:35:17,569  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:35:17,743  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:35:22,297  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:35:22,298  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:35:22,299  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:35:22,299  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:35:22,300  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:35:23,207  INFO [main] SignupTest:39 - Signup not successfull: possible reason 
+2021-10-24 10:36:05,560  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:36:05,562  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:36:05,562  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:36:05,563  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:36:05,607  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:36:07,701  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:36:07,711  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:36:07,883  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:36:11,719  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:36:11,726  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:36:11,726  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:36:11,727  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:36:11,727  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:36:12,442  INFO [main] SignupTest:39 - Signup not successfull: possible reason 
+2021-10-24 10:36:32,619  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:36:32,621  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:36:32,622  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:36:32,622  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:36:32,665  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:36:34,638  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:36:34,639  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:36:34,841  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:36:40,149  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:36:40,150  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:36:40,151  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:36:40,151  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:36:40,151  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:37:16,176  INFO [main] SignupTest:39 - Signup not successfull: possible reason 
+2021-10-24 10:38:07,774  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:38:07,776  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:38:07,777  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:38:07,777  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:38:07,819  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:38:10,078  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:38:10,092  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:38:10,265  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:38:15,389  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:38:15,392  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:38:15,393  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:38:15,394  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:38:15,394  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:38:38,509  INFO [main] SignupTest:39 - Signup not successfull: possible reason [[ChromeDriver: chrome on MAC (48abe0dc68d9f2d5bf00b2bd841417a4)] -> xpath: //div/span[@class='ng-binding']]
+2021-10-24 10:44:19,234  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:44:19,237  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:44:19,238  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:44:19,238  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:44:19,281  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:44:21,975  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:44:21,975  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:44:22,132  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:44:26,138  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:44:26,140  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:44:26,140  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:44:26,141  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:44:26,142  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:44:45,133  INFO [main] SignupTest:39 - Signup not successfull: possible reason   
+2021-10-24 10:46:22,877  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:46:22,879  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:46:22,880  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:46:22,881  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:46:22,930  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:46:25,548  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:46:25,562  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:46:25,720  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:46:29,745  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:46:29,748  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:46:29,749  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:46:29,751  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:46:29,752  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:46:48,181  INFO [main] SignupTest:39 - Signup not successfull: possible reason   
+2021-10-24 10:51:07,612  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:51:07,615  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:51:07,615  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:51:07,616  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:51:07,657  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:51:10,257  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:51:10,260  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:51:10,422  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:51:15,047  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:51:15,049  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:51:15,049  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:51:15,050  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:51:15,051  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:53:09,271  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:53:09,274  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:53:09,274  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:53:09,275  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:53:09,311  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:53:11,425  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:53:11,426  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:53:11,605  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:53:16,725  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:53:16,727  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:53:16,727  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:53:16,728  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:53:16,729  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:55:15,113  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:55:15,116  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:55:15,117  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:55:15,117  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 10:55:15,158  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 10:55:17,923  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 10:55:17,925  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 10:55:18,084  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 10:55:22,881  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 10:55:22,884  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 10:55:22,886  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 10:55:22,887  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 10:55:22,887  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:30:34,291  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:30:34,295  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:30:34,296  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:30:34,296  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:30:34,333  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 11:30:37,144  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 11:30:37,153  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 11:30:37,615  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 11:30:42,144  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 11:30:42,147  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:30:42,147  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:30:42,148  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:30:42,148  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:31:18,151  INFO [main] SignupTest:39 - Signup not successfull: possible reason 
+2021-10-24 11:31:47,029  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:31:47,032  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:31:47,034  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:31:47,034  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:31:47,082  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 11:31:49,472  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 11:31:49,491  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 11:31:49,694  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 11:31:56,787  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 11:31:56,791  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:31:56,791  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:31:56,792  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:31:56,792  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:32:02,424  INFO [main] SignupTest:37 - Signup successfull: Email has been received
+2021-10-24 11:32:56,290  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:32:56,293  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:32:56,294  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:32:56,294  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:32:56,332  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 11:32:58,926  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 11:32:58,927  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 11:32:59,080  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 11:33:03,434  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 11:33:03,435  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:33:03,436  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:33:03,436  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:33:03,436  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:33:09,198  INFO [main] SignupTest:39 - Signup not successfull: possible reason A welcome email has been sent. Please check your email.
+2021-10-24 11:43:21,352  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:43:21,355  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:43:21,356  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:43:21,356  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:43:21,392  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 11:43:24,287  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 11:43:24,289  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 11:43:24,462  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 11:43:28,408  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 11:43:28,413  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:43:28,414  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:43:28,415  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:43:28,417  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:43:28,621  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 11:43:29,934  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 11:43:29,952  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 11:43:30,096  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 11:43:33,438  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 11:43:33,438  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:43:33,438  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:43:33,439  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:43:33,439  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:43:34,236  INFO [main] BaseClass:33 - *********Driver Initialization Start*********
+2021-10-24 11:43:35,508  INFO [main] BaseClass:39 - *********Driver Initialization End*********
+2021-10-24 11:43:35,517  INFO [main] BaseClass:41 - *********Browser Basic Setup Start*********
+2021-10-24 11:43:35,661  INFO [main] BaseClass:46 - *********Browser Basic Setup End*********
+2021-10-24 11:43:38,949  INFO [main] BaseClass:48 - Navigating to base url
+2021-10-24 11:43:38,950  INFO [main] BaseClass:22 - *********BaseClass Constructor Initialization Start*********
+2021-10-24 11:43:38,951  INFO [main] BaseClass:23 - *********Properties file Initialization Start*********
+2021-10-24 11:43:38,953  INFO [main] BaseClass:28 - *********Properties file Initialization End*********
+2021-10-24 11:43:38,954  INFO [main] BaseClass:29 - *********BaseClass Constructor Initialization End*********
+2021-10-24 11:43:44,953  INFO [main] SignupTest:43 - Signup successfull: Email has been received
+2021-10-24 11:43:50,217 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 11:43:50,217 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 11:43:50,218 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 11:43:50,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 11:43:50,220 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2021-10-24 11:43:50,489 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_AU", UTF-8, parsed); will try to load it.
+2021-10-24 11:43:50,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_AU.ftl"): Not found
+2021-10-24 11:43:50,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2021-10-24 11:43:50,490 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2021-10-24 11:43:50,490 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_AU", UTF-8, parsed) from "jar:file:/Users/ravi/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

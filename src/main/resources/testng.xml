@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="JabaTalksAutomationSuite">
+    <listeners>
+        <listener class-name="com.jabatalks.qa.util.ExtentReporterNG"></listener>
+    </listeners>
+    <test name="JabaTalksSignUp">
+        <classes>
+            <class name="com.jabatalks.qa.testcases.SignupTest"></class>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
